@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xml" href="//enlistcitizen.com/sitemap.xml"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://enlistcitizen.com/</loc>
+		<lastmod>2019-05-04T17:39:14-07:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/components/StarCitizen/AMD_Omega.jpg</image:loc>
+			<image:title><![CDATA[AMD Omega]]></image:title>
+			<image:caption><![CDATA[AMD Omega Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/terms-of-service/</loc>
+		<lastmod>2019-05-04T17:37:11-07:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/components/StarCitizen/SQ42_TheCall.jpg</image:loc>
+			<image:title><![CDATA[SQ42 The Call]]></image:title>
+			<image:caption><![CDATA[SQ42 The Call]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/privacy-policy/</loc>
+		<lastmod>2019-05-04T17:38:31-07:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/components/StarCitizen/Origin_100_series.jpg</image:loc>
+			<image:title><![CDATA[Origin 100 series]]></image:title>
+			<image:caption><![CDATA[Origin 100 series]]></image:caption>
+		</image:image>
+	</url>
+</urlset>

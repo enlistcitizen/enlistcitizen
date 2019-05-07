@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xml" href="//enlistcitizen.com/sitemap.xml"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://enlistcitizen.com/star-citizen-news/</loc>
+		<lastmod>2019-05-04T17:40:16-07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/star-citizen-referral-code/</loc>
+		<lastmod>2019-05-04T17:40:16-07:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/components/StarCitizen/SQ42_TheCall_cropped.jpg</image:loc>
+			<image:title><![CDATA[SQ42 The Call cropped]]></image:title>
+			<image:caption><![CDATA[SQ42 Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+</urlset>
