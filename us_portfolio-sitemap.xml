@@ -1,0 +1,76 @@
+
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//enlistcitizen.complugins/seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://enlistcitizen.comevents/luxury-ships-day/</loc>
+		<lastmod>2020-11-26T03:21:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.comuploads/StarCitizen/Origin_100_series-scaled.jpg</image:loc>
+			<image:title><![CDATA[Origin 100 series]]></image:title>
+			<image:caption><![CDATA[Origin 100 series]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.comevents/fighter-ships-day/</loc>
+		<lastmod>2020-11-26T03:21:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.comuploads/StarCitizen/StarCitizenBattle-scaled.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Ship Battle]]></image:title>
+			<image:caption><![CDATA[Star Citizen Ship Battle]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.comevents/alien-ships-day/</loc>
+		<lastmod>2020-11-26T03:21:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.comuploads/StarCitizen/Banu_Merchantman-scaled.jpg</image:loc>
+			<image:title><![CDATA[Banu Merchantman]]></image:title>
+			<image:caption><![CDATA[Banu Merchantman Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.comevents/javelin-day/</loc>
+		<lastmod>2020-11-26T03:21:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.comuploads/StarCitizen/Javelin.jpg</image:loc>
+			<image:title><![CDATA[Javelin]]></image:title>
+			<image:caption><![CDATA[Javelin Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.comevents/industry-ships-day/</loc>
+		<lastmod>2020-11-26T03:21:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.comuploads/StarCitizen/Reclaimer-scaled.jpg</image:loc>
+			<image:title><![CDATA[Reclaimer]]></image:title>
+			<image:caption><![CDATA[Reclaimer Star Citizen]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.comevents/capital-ships-day/</loc>
+		<lastmod>2020-11-26T03:21:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.comuploads/StarCitizen/KRAKEN-scaled.jpg</image:loc>
+			<image:title><![CDATA[KRAKEN]]></image:title>
+			<image:caption><![CDATA[KRAKEN Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.comevents/ground-vehicles-day/</loc>
+		<lastmod>2020-11-26T03:21:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.comuploads/StarCitizen/URSA_ROVER_FORTUNA-scaled.jpg</image:loc>
+			<image:title><![CDATA[URSA ROVER FORTUNA]]></image:title>
+			<image:caption><![CDATA[URSA ROVER FORTUNA Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.comevents/the-titan-horde-day/</loc>
+		<lastmod>2020-11-26T03:21:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.comuploads/StarCitizen/StarCitizen_Titan-scaled.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Titan]]></image:title>
+			<image:caption><![CDATA[Star Citizen Titan]]></image:caption>
+		</image:image>
+	</url>
+</urlset>

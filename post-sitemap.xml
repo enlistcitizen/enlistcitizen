@@ -1,88 +1,610 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//enlistcitizen.com/wp-content/plugins/wordpress-seo-premium/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//enlistcitizen.com/plugins/seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://enlistcitizen.com/star-citizen-news/</loc>
-		<lastmod>2020-11-25T10:07:52+00:00</lastmod>
+		<lastmod>2021-01-14T13:53:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://enlistcitizen.com/capital-ships-day/</loc>
-		<lastmod>2020-09-26T07:18:07+00:00</lastmod>
+		<loc>https://enlistcitizen.com/star-citizen-music-videos/</loc>
+		<lastmod>2020-12-04T08:11:22+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/KRAKEN-scaled.jpg</image:loc>
-			<image:title><![CDATA[KRAKEN]]></image:title>
-			<image:caption><![CDATA[KRAKEN Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/BestStarCitizenMusicVideos.jpg</image:loc>
+			<image:title><![CDATA[The Best Star Citizen Music Videos]]></image:title>
+			<image:caption><![CDATA[The Best Star Citizen Music Videos]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/star-citizen-machinima/</loc>
+		<lastmod>2020-12-04T08:11:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/StarCitizenLetsPlayMachinima.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Lets Play Machinima]]></image:title>
+			<image:caption><![CDATA[Star Citizen Lets Play Machinima]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/star-citizen-referral-code/</loc>
+		<lastmod>2020-12-12T10:52:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/SQ42_TheCall_cropped.jpg</image:loc>
+			<image:title><![CDATA[SQ42 The Call cropped]]></image:title>
+			<image:caption><![CDATA[SQ42 Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/was-ist-star-citizen/</loc>
+		<lastmod>2020-12-12T10:55:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/StarCitizenBattle-scaled.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Ship Battle]]></image:title>
+			<image:caption><![CDATA[Star Citizen Ship Battle]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://enlistcitizen.com/javelin-day/</loc>
-		<lastmod>2020-09-26T07:19:39+00:00</lastmod>
+		<lastmod>2020-12-14T12:54:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/Javelin.jpg</image:loc>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Javelin.jpg</image:loc>
 			<image:title><![CDATA[Javelin]]></image:title>
 			<image:caption><![CDATA[Javelin Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://enlistcitizen.com/luxury-ships-day/</loc>
-		<lastmod>2020-09-26T07:20:38+00:00</lastmod>
+		<loc>https://enlistcitizen.com/capital-ships-day/</loc>
+		<lastmod>2020-12-14T12:54:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/Origin_100_series-scaled.jpg</image:loc>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/KRAKEN-scaled.jpg</image:loc>
+			<image:title><![CDATA[KRAKEN]]></image:title>
+			<image:caption><![CDATA[KRAKEN Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/luxury-ships-day/</loc>
+		<lastmod>2020-12-14T12:54:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Origin_100_series-scaled.jpg</image:loc>
 			<image:title><![CDATA[Origin 100 series]]></image:title>
 			<image:caption><![CDATA[Origin 100 series]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://enlistcitizen.com/fighter-ships-day/</loc>
-		<lastmod>2020-09-26T07:22:29+00:00</lastmod>
+		<lastmod>2020-12-14T12:54:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/StarCitizenBattle-scaled.jpg</image:loc>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/StarCitizenBattle-scaled.jpg</image:loc>
 			<image:title><![CDATA[Star Citizen Ship Battle]]></image:title>
 			<image:caption><![CDATA[Star Citizen Ship Battle]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://enlistcitizen.com/industry-ships-day/</loc>
-		<lastmod>2020-09-26T07:23:28+00:00</lastmod>
+		<lastmod>2020-12-14T12:54:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/Reclaimer-scaled.jpg</image:loc>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Reclaimer-scaled.jpg</image:loc>
 			<image:title><![CDATA[Reclaimer]]></image:title>
 			<image:caption><![CDATA[Reclaimer Star Citizen]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://enlistcitizen.com/alien-ships-day/</loc>
-		<lastmod>2020-09-26T07:24:32+00:00</lastmod>
+		<lastmod>2020-12-14T12:54:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/Banu_Merchantman-scaled.jpg</image:loc>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Banu_Merchantman-scaled.jpg</image:loc>
 			<image:title><![CDATA[Banu Merchantman]]></image:title>
 			<image:caption><![CDATA[Banu Merchantman Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://enlistcitizen.com/ground-vehicles-day/</loc>
-		<lastmod>2020-09-26T07:26:07+00:00</lastmod>
+		<lastmod>2020-12-14T12:54:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/URSA_ROVER_FORTUNA-scaled.jpg</image:loc>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/URSA_ROVER_FORTUNA-scaled.jpg</image:loc>
 			<image:title><![CDATA[URSA ROVER FORTUNA]]></image:title>
 			<image:caption><![CDATA[URSA ROVER FORTUNA Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://enlistcitizen.com/the-titan-horde-day/</loc>
-		<lastmod>2020-09-26T07:26:44+00:00</lastmod>
+		<lastmod>2020-12-14T12:54:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/StarCitizen_Titan-scaled.jpg</image:loc>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/StarCitizen_Titan-scaled.jpg</image:loc>
 			<image:title><![CDATA[Star Citizen Titan]]></image:title>
 			<image:caption><![CDATA[Star Citizen Titan]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://enlistcitizen.com/star-citizen-referral-code/</loc>
-		<lastmod>2020-11-25T10:07:52+00:00</lastmod>
+		<loc>https://enlistcitizen.com/rsi-auora-cl-es-mr-ln-and-lx/</loc>
+		<lastmod>2020-12-30T04:09:55+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/SQ42_TheCall_cropped.jpg</image:loc>
-			<image:title><![CDATA[SQ42 The Call cropped]]></image:title>
-			<image:caption><![CDATA[SQ42 Referral Code STAR-GN2F-6JLW]]></image:caption>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/RSI_Aurora_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[RSI Aurora]]></image:title>
+			<image:caption><![CDATA[RSI Aurora]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/origin-300i-315p-325a-and-350r/</loc>
+		<lastmod>2020-12-30T04:09:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/300i_Concept_Sale.jpg</image:loc>
+			<image:title><![CDATA[300i_Concept_Sale]]></image:title>
+			<image:caption><![CDATA[300i_Concept_Sale]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-idris/</loc>
+		<lastmod>2020-12-30T04:09:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/AEGS_Idris_K-scaled.jpg</image:loc>
+			<image:title><![CDATA[AEGS Idris K]]></image:title>
+			<image:caption><![CDATA[AEGS Idris K]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/drake-caterpillar/</loc>
+		<lastmod>2020-12-30T04:09:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/DrakeCaterpillar_Concept-scaled.jpg</image:loc>
+			<image:title><![CDATA[DrakeCaterpillar_Concept]]></image:title>
+			<image:caption><![CDATA[DrakeCaterpillar_Concept]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-avenger/</loc>
+		<lastmod>2020-12-30T04:09:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/StarCitizen_Avenger_Titan.jpg</image:loc>
+			<image:title><![CDATA[StarCitizen Avenger Titan]]></image:title>
+			<image:caption><![CDATA[StarCitizen Avenger Titan]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/anvil-hornet-f7a-f7c-f7c-r-f7c-s-f7c-m/</loc>
+		<lastmod>2020-12-30T04:09:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/F7cs_hornet_ghost_cropped.jpg</image:loc>
+			<image:title><![CDATA[Anvil F7cs Hornet Ghost]]></image:title>
+			<image:caption><![CDATA[Anvil F7cs Hornet Ghost]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/origin-m50/</loc>
+		<lastmod>2020-12-30T04:09:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/M50_concept-scaled.jpg</image:loc>
+			<image:title><![CDATA[M50 concept]]></image:title>
+			<image:caption><![CDATA[M50 concept]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aopoa-khartu-al/</loc>
+		<lastmod>2020-12-30T04:09:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/KHARTU-AL_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Khartu-Al]]></image:title>
+			<image:caption><![CDATA[Star Citizen Khartu-Al]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/anvil-gladiator/</loc>
+		<lastmod>2020-12-30T04:09:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Gladiator_missle2141-scaled.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Anvil Gladiator]]></image:title>
+			<image:caption><![CDATA[Star Citizen Anvil Gladiator]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-retaliator/</loc>
+		<lastmod>2020-12-30T04:09:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Retaliator_SS1_v1b_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[Retaliator]]></image:title>
+			<image:caption><![CDATA[Retaliator]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/banu-merchantman/</loc>
+		<lastmod>2020-12-30T04:09:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Banu_Merchantman-scaled.jpg</image:loc>
+			<image:title><![CDATA[Banu Merchantman]]></image:title>
+			<image:caption><![CDATA[Banu Merchantman Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/misc-starfarer/</loc>
+		<lastmod>2020-12-30T04:09:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Starfarer_cropped.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Starfarer]]></image:title>
+			<image:caption><![CDATA[Star Citizen Starfarer]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/rsi-constellation-andromeda-aquila-pheonix-and-taurus/</loc>
+		<lastmod>2020-12-30T04:09:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Aquila_cropped.jpg</image:loc>
+			<image:title><![CDATA[RSI Constellation Aquila]]></image:title>
+			<image:caption><![CDATA[RSI Constellation Aquila]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/freelancer-dur-max-and-mis/</loc>
+		<lastmod>2020-12-30T04:09:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/MISCFreelancer_cropped.jpg</image:loc>
+			<image:title><![CDATA[MISC Freelancer]]></image:title>
+			<image:caption><![CDATA[MISC Freelancer]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-gladius/</loc>
+		<lastmod>2020-12-30T04:09:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Gladius_Store_Beauty_cropped.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Gladius]]></image:title>
+			<image:caption><![CDATA[Star Citizen Gladius]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/origin-890-jump/</loc>
+		<lastmod>2020-12-30T04:09:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/890_Jump_Clouds-2-Min-scaled-1.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen 890 Jump]]></image:title>
+			<image:caption><![CDATA[Star Citizen 890 Jump]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/origin-85x/</loc>
+		<lastmod>2020-12-30T04:09:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/85X-scaled.jpg</image:loc>
+			<image:title><![CDATA[85X]]></image:title>
+			<image:caption><![CDATA[85X Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/drake-herald/</loc>
+		<lastmod>2020-12-30T04:09:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Herald-2_cropped.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Drake Herald]]></image:title>
+			<image:caption><![CDATA[Star Citizen Drake Herald]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-redeemer/</loc>
+		<lastmod>2020-12-30T04:09:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Redeemer.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Redeemer]]></image:title>
+			<image:caption><![CDATA[Star Citizen Redeemer]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/drake-cutlass-black-red-and-blue/</loc>
+		<lastmod>2020-12-30T04:09:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Cutlass_battle-scaled.jpg</image:loc>
+			<image:title><![CDATA[Cutlass battle]]></image:title>
+			<image:caption><![CDATA[Cutlass battle]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-javelin/</loc>
+		<lastmod>2020-12-30T04:09:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Javelin.jpg</image:loc>
+			<image:title><![CDATA[Javelin]]></image:title>
+			<image:caption><![CDATA[Javelin Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/cnou-mustang-alpha-beta-delta-gamma/</loc>
+		<lastmod>2020-12-30T04:09:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/MustangAlpha.jpg</image:loc>
+			<image:title><![CDATA[Mustang Alpha]]></image:title>
+			<image:caption><![CDATA[Mustang Alpha]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/rsi-orion/</loc>
+		<lastmod>2020-12-30T04:09:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Orion_Mining.jpg</image:loc>
+			<image:title><![CDATA[Orion Mining]]></image:title>
+			<image:caption><![CDATA[Orion Mining]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/misc-hull-a-b-c-d-e/</loc>
+		<lastmod>2020-12-30T04:53:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Hull_E_4_compflat.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Hull E]]></image:title>
+			<image:caption><![CDATA[Star Citizen Hull E]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/crusader-genesis-starliner/</loc>
+		<lastmod>2020-12-30T09:23:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Starliner_cropped.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Crusader Starliner]]></image:title>
+			<image:caption><![CDATA[Star Citizen Crusader Starliner]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/kruger-merlin/</loc>
+		<lastmod>2020-12-30T10:56:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Merlin_cropped.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Kruger Merlin]]></image:title>
+			<image:caption><![CDATA[Star Citizen Kruger Merlin]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/esperia-glaive/</loc>
+		<lastmod>2020-12-30T11:42:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Glaive_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Esperia Glaive]]></image:title>
+			<image:caption><![CDATA[Star Citizen Esperia Glaive]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-vanguard-warden-harbinger-sentinel/</loc>
+		<lastmod>2020-12-30T12:23:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Vanguard_ALL_EXT.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Aegis Vanguard 3]]></image:title>
+			<image:caption><![CDATA[Star Citizen Aegis Vanguard 3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-sabre/</loc>
+		<lastmod>2020-12-30T14:13:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/SABRE-scaled.jpg</image:loc>
+			<image:title><![CDATA[SABRE]]></image:title>
+			<image:caption><![CDATA[SABRE]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/anvil-crucible/</loc>
+		<lastmod>2021-01-01T02:36:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Anvil_Crucible-scaled.jpg</image:loc>
+			<image:title><![CDATA[Anvil Crucible]]></image:title>
+			<image:caption><![CDATA[Anvil Crucible]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/esperia-blade/</loc>
+		<lastmod>2021-01-01T02:49:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Vanduul_BLADE-scaled.jpg</image:loc>
+			<image:title><![CDATA[Vanduul BLADE]]></image:title>
+			<image:caption><![CDATA[Vanduul BLADE]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/misc-prospector/</loc>
+		<lastmod>2021-01-01T03:14:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Prospector_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen MISC Prospector]]></image:title>
+			<image:caption><![CDATA[Star Citizen MISC Prospector]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/drake-buccaneer/</loc>
+		<lastmod>2021-01-01T08:44:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Buccaneer_cropped.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Drake Buccaneer]]></image:title>
+			<image:caption><![CDATA[Star Citizen Drake Buccaneer]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/drake-dragonfly/</loc>
+		<lastmod>2021-01-01T09:00:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Dragonfly_cropped.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Drake Dragonfly]]></image:title>
+			<image:caption><![CDATA[Star Citizen Drake Dragonfly]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/anvil-terrapin/</loc>
+		<lastmod>2021-01-01T10:56:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Terrapin_cropped.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Anvil Terrapin]]></image:title>
+			<image:caption><![CDATA[Star Citizen Anvil Terrapin]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/argo-mpuv/</loc>
+		<lastmod>2021-01-01T11:11:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/MPUV_Landing_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[Argo MPUV]]></image:title>
+			<image:caption><![CDATA[Argo MPUV]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/rsi-polaris/</loc>
+		<lastmod>2021-01-01T11:19:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Polaris_battletrail-scaled.jpg</image:loc>
+			<image:title><![CDATA[RSI Polaris]]></image:title>
+			<image:caption><![CDATA[RSI Polaris]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/esperia-prowler/</loc>
+		<lastmod>2021-01-01T11:30:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Esperia_Prowler_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[Esperia Prowler]]></image:title>
+			<image:caption><![CDATA[Esperia Prowler]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/misc-razor/</loc>
+		<lastmod>2021-01-01T11:41:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Misc-Razer-Murray-Ringz-Paint-V5_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[MISC Razor]]></image:title>
+			<image:caption><![CDATA[MISC Razor]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/anvil-hurricane/</loc>
+		<lastmod>2021-01-01T11:52:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Hurricane_03-Squashed_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[Anvil Hurricane]]></image:title>
+			<image:caption><![CDATA[Anvil Hurricane]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/banu-defender/</loc>
+		<lastmod>2021-01-01T12:01:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Banu_Banner-Min_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[Banu Defender]]></image:title>
+			<image:caption><![CDATA[Banu Defender]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-eclipse/</loc>
+		<lastmod>2021-01-01T12:15:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Aegis-Eclipse_cropped.jpg</image:loc>
+			<image:title><![CDATA[Aegis Eclipse]]></image:title>
+			<image:caption><![CDATA[Aegis Eclipse]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aopoa-nox/</loc>
+		<lastmod>2021-01-01T12:29:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Nox_racing-scaled.jpg</image:loc>
+			<image:title><![CDATA[Nox racing]]></image:title>
+			<image:caption><![CDATA[Nox racing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/tumbril-cyclone/</loc>
+		<lastmod>2021-01-01T12:37:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Tumbril_Cyclone-scaled.jpg</image:loc>
+			<image:title><![CDATA[Tumbril Cyclone]]></image:title>
+			<image:caption><![CDATA[Tumbril Cyclone]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/origin-600i/</loc>
+		<lastmod>2021-01-01T12:46:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/600i-scaled.jpg</image:loc>
+			<image:title><![CDATA[Origin 600i]]></image:title>
+			<image:caption><![CDATA[Origin 600i]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-reclaimer/</loc>
+		<lastmod>2021-01-01T13:05:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Reclaimer-scaled.jpg</image:loc>
+			<image:title><![CDATA[Reclaimer]]></image:title>
+			<image:caption><![CDATA[Reclaimer Star Citizen]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/anvil-carrack/</loc>
+		<lastmod>2021-01-01T13:08:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Carrack_cropped-scaled.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Carrack]]></image:title>
+			<image:caption><![CDATA[Star Citizen Carrack]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-vanguard/</loc>
+		<lastmod>2021-01-01T13:08:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Vanguard_landed_cropped.png</image:loc>
+			<image:title><![CDATA[Star Citizen Vanguard]]></image:title>
+			<image:caption><![CDATA[Star Citizen Vanguard]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/misc-reliant-kore/</loc>
+		<lastmod>2021-01-01T13:09:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Reliant_Wet_Delivery_cropped.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen Reliant Kore]]></image:title>
+			<image:caption><![CDATA[Star Citizen Reliant Kore]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/star-citizen-concept-ship-sale-timeline/</loc>
+		<lastmod>2021-01-01T13:58:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/890_Jump_Clouds-2-Min-scaled-1.jpg</image:loc>
+			<image:title><![CDATA[Star Citizen 890 Jump]]></image:title>
+			<image:caption><![CDATA[Star Citizen 890 Jump]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/origin-x1/</loc>
+		<lastmod>2021-01-01T20:54:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Origin_X1_cropped.jpg</image:loc>
+			<image:title><![CDATA[Origin X1]]></image:title>
+			<image:caption><![CDATA[Origin X1]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/cnou-pioneer/</loc>
+		<lastmod>2021-01-01T21:07:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Pioneer_artic.jpg</image:loc>
+			<image:title><![CDATA[CNOU Pioneer]]></image:title>
+			<image:caption><![CDATA[CNOU Pioneer]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/aegis-sabre-raven/</loc>
+		<lastmod>2021-01-02T02:16:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Raven-shot-09_cropped.jpg</image:loc>
+			<image:title><![CDATA[Aegis Sabre Raven]]></image:title>
+			<image:caption><![CDATA[Aegis Sabre Raven]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/misc-endeavor/</loc>
+		<lastmod>2021-01-02T02:34:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Endeavor-scaled.jpg</image:loc>
+			<image:title><![CDATA[Endeavor]]></image:title>
+			<image:caption><![CDATA[Endeavor]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://enlistcitizen.com/anvil-hawk/</loc>
+		<lastmod>2021-01-14T13:53:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Hawk-scaled.jpg</image:loc>
+			<image:title><![CDATA[Hawk]]></image:title>
+			<image:caption><![CDATA[Hawk]]></image:caption>
 		</image:image>
 	</url>
 </urlset>

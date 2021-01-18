@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//enlistcitizen.com/wp-content/plugins/wordpress-seo-premium/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//enlistcitizen.com/plugins/seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://enlistcitizen.com/</loc>
-		<lastmod>2020-11-25T10:08:25+00:00</lastmod>
+		<lastmod>2020-12-18T11:58:38+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/AMD_Omega-scaled.jpg</image:loc>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/AMD_Omega-scaled.jpg</image:loc>
 			<image:title><![CDATA[AMD Omega]]></image:title>
 			<image:caption><![CDATA[AMD Omega Star Citizen Referral Code STAR-GN2F-6JLW]]></image:caption>
 		</image:image>
@@ -13,7 +13,7 @@
 		<loc>https://enlistcitizen.com/terms-of-service/</loc>
 		<lastmod>2019-05-05T00:37:11+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/SQ42_TheCall.jpg</image:loc>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/SQ42_TheCall.jpg</image:loc>
 			<image:title><![CDATA[SQ42 The Call]]></image:title>
 			<image:caption><![CDATA[SQ42 The Call]]></image:caption>
 		</image:image>
@@ -22,7 +22,7 @@
 		<loc>https://enlistcitizen.com/privacy-policy/</loc>
 		<lastmod>2019-05-05T00:38:31+00:00</lastmod>
 		<image:image>
-			<image:loc>https://enlistcitizen.com/wp-content/uploads/sites/12/StarCitizen/Origin_100_series-scaled.jpg</image:loc>
+			<image:loc>https://enlistcitizen.com/uploads/StarCitizen/Origin_100_series-scaled.jpg</image:loc>
 			<image:title><![CDATA[Origin 100 series]]></image:title>
 			<image:caption><![CDATA[Origin 100 series]]></image:caption>
 		</image:image>
